@@ -1,4 +1,4 @@
-package p05_PizzaCalories;
+package p05_02_PizzaCalories;
 
 import java.io.BufferedReader;
 import java.io.IOException;

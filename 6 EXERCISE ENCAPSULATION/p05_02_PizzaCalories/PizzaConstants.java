@@ -1,4 +1,4 @@
-package p05_PizzaCalories;
+package p05_02_PizzaCalories;
 
 public final class PizzaConstants {
 

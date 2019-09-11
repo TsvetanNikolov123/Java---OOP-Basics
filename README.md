@@ -121,4 +121,16 @@ Java Fundamentals: Java OOP Basics - June 2018 @ SoftUni
 
 ***<a title="06 *Animals" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/8%20EXERCISE%20INHERITANCE#0806-animals">06 \*Animals</a>***
 
+---
+---
+
+## 09. Lab: Polymorphism
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Overload Method" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/9%20POLYMORPHISM#0901-overload-method">01 Overload Method</a>***
+***<a title="02 Method Overriding" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/9%20POLYMORPHISM#0902-method-overriding">02 Method Overriding</a>***
+***<a title="03 Shapes" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/9%20POLYMORPHISM#0903-shapes">03 Shapes</a>***
+
 

@@ -45,3 +45,59 @@ Java Fundamentals: Java OOP Basics - June 2018 @ SoftUni
 
 ***<a title="11 ** Cat Lady" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/4%20EXERCISE%20DEFINING%20CLASSES#0511--cat-lady">11 ** Cat Lady</a>***
 
+---
+---
+
+## 05. Lab: Encapsulation
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Sort by Name and Age" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/5%20ENCAPSULATION#0501-sort-by-name-and-age">01 Sort by Name and Age</a>***
+
+***<a title="02 Salary Increase" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/5%20ENCAPSULATION#0502-salary-increase">02 Salary Increase</a>***
+
+***<a title="03 Validation Data" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/5%20ENCAPSULATION#0503-validation-data">03 Validation Data</a>***
+
+***<a title="04 First and Reserve Team" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/5%20ENCAPSULATION#0504-first-and-reserve-team">04 First and Reserve Team</a>***
+
+---
+---
+
+## 06. Exercise: Encapsulation
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Class Box" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/6%20EXERCISE%20ENCAPSULATION#0601-class-box">01 Class Box</a>***
+
+***<a title="02 Class Box Data Validation" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/6%20EXERCISE%20ENCAPSULATION#0602-class-box-data-validation">02 Class Box Data Validation</a>***
+
+***<a title="03 Animal Farm" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/6%20EXERCISE%20ENCAPSULATION#0603-animal-farm">03 Animal Farm</a>***
+
+***<a title="04 Shopping Spree" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/6%20EXERCISE%20ENCAPSULATION#0604-shopping-spree">04 Shopping Spree</a>***
+
+***<a title="05 *Pizza Calories" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/6%20EXERCISE%20ENCAPSULATION#0605-pizza-calories">05 \*Pizza Calories</a>***
+
+***<a title="06 **Football Team Generator" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/6%20EXERCISE%20ENCAPSULATION#0506-football-team-generator">06 \*\*Football Team Generator</a>***
+
+---
+---
+
+## 07. Lab: Inheritance
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Single Inheritance" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/7%20INHERITANCE#0701-single-inheritance">01 Single Inheritance</a>***
+
+***<a title="02 Multiple Inheritance" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/7%20INHERITANCE#0702-multiple-inheritance">02 Multiple Inheritance</a>***
+
+***<a title="03 Hierarchical Inheritance" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/7%20INHERITANCE#0703-hierarchical-inheritance">03 Hierarchical Inheritance</a>***
+
+***<a title="04 Fragile Base Class" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/7%20INHERITANCE#0704-fragile-base-class">04 Fragile Base Class</a>***
+
+***<a title="05 Random Array List" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/7%20INHERITANCE#0705-random-array-list">05 Random Array List</a>***
+
+***<a title="06 Stack of Strings" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/7%20INHERITANCE#0706-stack-of-strings">06 Stack of Strings</a>***
+

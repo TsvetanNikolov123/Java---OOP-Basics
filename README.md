@@ -101,3 +101,24 @@ Java Fundamentals: Java OOP Basics - June 2018 @ SoftUni
 
 ***<a title="06 Stack of Strings" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/7%20INHERITANCE#0706-stack-of-strings">06 Stack of Strings</a>***
 
+---
+---
+
+## 08. Exercise: Inheritance
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Person" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/8%20EXERCISE%20INHERITANCE#0801-person">01 Person</a>***
+
+***<a title="02 Book Shop" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/8%20EXERCISE%20INHERITANCE#0802-book-shop">02 Book Shop</a>***
+
+***<a title="03 Mankind" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/8%20EXERCISE%20INHERITANCE#0803-mankind">03 Mankind</a>***
+
+***<a title="04 *Mordor’s Cruelty Plan" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/8%20EXERCISE%20INHERITANCE#0804-mordors-cruelty-plan">04 \*Mordor’s Cruelty Plan</a>***
+
+***<a title="05 Online Radio Database" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/8%20EXERCISE%20INHERITANCE#0805-online-radio-database">05 Online Radio Database</a>***
+
+***<a title="06 *Animals" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/8%20EXERCISE%20INHERITANCE#0806-animals">06 \*Animals</a>***
+
+

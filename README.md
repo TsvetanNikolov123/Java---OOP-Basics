@@ -167,4 +167,31 @@ Java Fundamentals: Java OOP Basics - June 2018 @ SoftUni
 
 ***<a title="05 Say Hello Extend" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/11%20INTERFACES%20AND%20ABSTRACTION#1105-say-hello-extend">05 Say Hello Extend</a>***
 
+---
+---
+
+## 12. Exercise: Interfaces and Abstraction
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Define an Interface Person" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/12%20EXERCISE%20INTERFACES%20AND%20ABSTRACTION#1201-define-an-interface-person">01 Define an Interface Person</a>***
+
+***<a title="02 Multiple Implementation" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/12%20EXERCISE%20INTERFACES%20AND%20ABSTRACTION#1202-multiple-implementation">02 Multiple Implementation</a>***
+
+***<a title="03 Ferrari" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/12%20EXERCISE%20INTERFACES%20AND%20ABSTRACTION#1203-ferrari">03 Ferrari</a>***
+
+***<a title="04 Telephony" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/12%20EXERCISE%20INTERFACES%20AND%20ABSTRACTION#1204-telephony">04 Telephony</a>***
+
+***<a title="05 Border Control" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/12%20EXERCISE%20INTERFACES%20AND%20ABSTRACTION#1205-border-control">05 Border Control</a>***
+
+***<a title="06 Birthday Celebrations" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/12%20EXERCISE%20INTERFACES%20AND%20ABSTRACTION#1206-birthday-celebrations">06 Birthday Celebrations</a>***
+
+***<a title="07 Food Shortage" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/12%20EXERCISE%20INTERFACES%20AND%20ABSTRACTION#1207-food-shortage">07 Food Shortage</a>***
+
+***<a title="08 Military Elite" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/12%20EXERCISE%20INTERFACES%20AND%20ABSTRACTION#1208-military-elite">08 Military Elite</a>***
+
+***<a title="09 *Collection Hierarchy" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/12%20EXERCISE%20INTERFACES%20AND%20ABSTRACTION#1209-collection-hierarchy">09 \*Collection Hierarchy</a>***
+
+***<a title="10 MooD 3" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/12%20EXERCISE%20INTERFACES%20AND%20ABSTRACTION#1210-mood-3">10 MooD 3</a>***
 

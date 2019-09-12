@@ -204,7 +204,7 @@ Your hierarchy have to be used with this code
     
         for (Person person : persons) {
             print(person);
-        }
+        }K
     }
     
     private static void print(Person person) {
@@ -219,6 +219,6 @@ Your hierarchy have to be used with this code
 
 <br/>
 
-### Solution: <a title="05 Say Hello Extend" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/11%20INTERFACES%20AND%20ABSTRACTION">05 Say Hello Extend</a>
+### Solution: <a title="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/11%20INTERFACES%20AND%20ABSTRACTION/p05_SayHelloExtend">05 Say Hello Extend</a>
 
 ---

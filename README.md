@@ -203,7 +203,7 @@ Java Fundamentals: Java OOP Basics - June 2018 @ SoftUni
 ### Tasks Requirements And Solutions
 <br>
 
-***<a title="Battleground" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/13%20WORKSHOP#battleground--workshop">Battleground</a>***
+***<a title="Battleground" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/13%20WORKSHOP#battleground--workshop">01 Battleground</a>***
 
 ---
 ---
@@ -213,5 +213,34 @@ Java Fundamentals: Java OOP Basics - June 2018 @ SoftUni
 ### Tasks Requirements And Solutions
 <br>
 
-***<a title="It's in the Blood" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/15%20EXAM%20PREPARATION#15-exam-preparation-its-in-the-blood">It's in the Blood</a>***
+***<a title="It's in the Blood" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/15%20EXAM%20PREPARATION#15-exam-preparation-its-in-the-blood">01 It's in the Blood</a>***
 
+---
+---
+
+## 16. Exam Preparation II
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="Need For Speed" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/16%20EXAM%20PREPARATION%20II#16-exam-preparation-ii--need-for-speed">01 Need For Speed</a>***
+
+---
+---
+
+## 17. Exam 
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="THE WAR OF THE COMIC" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/17%20EXAM#17-exam-the-war-of-the-comic">01 THE WAR OF THE COMIC</a>***
+
+---
+---
+
+## 18. Retake Exam 
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="The Younger Scrolls EIGHT" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/18%20Retake%20EXAM#18-retake-exam---the-younger-scrolls-eight">01 The Younger Scrolls EIGHT</a>***

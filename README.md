@@ -195,3 +195,23 @@ Java Fundamentals: Java OOP Basics - June 2018 @ SoftUni
 
 ***<a title="10 MooD 3" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/12%20EXERCISE%20INTERFACES%20AND%20ABSTRACTION#1210-mood-3">10 MooD 3</a>***
 
+---
+---
+
+## 13. Workshop
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="Battleground" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/13%20WORKSHOP#battleground--workshop">Battleground</a>***
+
+---
+---
+
+## 15. Exam Preparation
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="It's in the Blood" href="https://github.com/TsvetanNikolov123/Java---OOP-Basics/tree/master/15%20EXAM%20PREPARATION#15-exam-preparation-its-in-the-blood">It's in the Blood</a>***
+
